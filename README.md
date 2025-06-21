@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+
 ![Snake animation](https://raw.githubusercontent.com/ksemina61/snk/output/github-contribution-grid-snake.svg)
 
 name: Generate Snake
