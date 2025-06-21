@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://raw.githubusercontent.com/ksemina61/snk/output/github-contribution-grid-snake.svg)
 <!--
 **ksemina61/ksemina61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
